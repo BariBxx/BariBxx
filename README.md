@@ -6,7 +6,7 @@ I'm a passionate software developer who loves to code, explore new technologies,
 - 🚀 I'm a self-motivated learner and am always eager to expand my knowledge in programming and tech.
 - 💻 I enjoy coding in various languages, from Python and JavaScript to C++ and more.
 - 🌐 I'm interested in web development, machine learning, artificial intelligence, and cybersecurity.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulbari-nureldin) and check out my code on [GitHub](https://github.com/baribxx).
+- 🔗 Connect with me on [Telegram](https://www.t.me/notbari) and check out my code on [GitHub](https://github.com/baribxx).
 
 ## Get in Touch
 - 📧 Email: abdulbari.nureldinx@gmail.com
